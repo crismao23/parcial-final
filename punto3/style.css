@@ -1,0 +1,17 @@
+table {
+    border: 1;
+    border-collapse: collapse;
+    width: 30em;
+    height: 5em;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid rgb(199, 196, 196);
+    border-collapse: collapse;
+  }
+
+.gr{
+    background-color: rgb(199, 196, 196);
+}
